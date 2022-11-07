@@ -1,5 +1,9 @@
 # Pics React App
 
+https://stephaniedejager.github.io/pics/
+
+![image](https://user-images.githubusercontent.com/68548733/200417306-70b62073-a09e-4f3e-9673-a50720f153a2.png)
+
 Covered:
 Handling Input
 
